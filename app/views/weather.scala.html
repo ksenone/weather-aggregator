@@ -1,0 +1,14 @@
+@import collection.mutable
+@import model.Data
+@import model.openweathermap._
+@import model.worldweatheronline._
+
+@(data: mutable.ListBuffer[String])
+
+@main("Weather") {
+<h3>Погода сейчас</h3>
+<h5>Для того, чтобы узнать погоду в выбранном городе, введите http://localhost:9000/?area=[ваш город с большой буквы на
+    английском]</h5>
+@for(d <- data){ <p>@d</p>
+    }
+    }

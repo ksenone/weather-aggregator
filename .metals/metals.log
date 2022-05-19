@@ -1,0 +1,359 @@
+2022.05.15 15:01:19 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\1\Desktop\scala\weather-aggregator\.metals\lsp.trace.json or C:\Users\1\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.15 15:01:22 INFO  logging to file C:\Users\1\Desktop\scala\weather-aggregator\.metals\metals.log
+2022.05.15 15:01:22 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\1\Desktop\scala\weather-aggregator' for client Visual Studio Code 1.67.1.
+2022.05.15 15:01:26 INFO  time: initialize in 3.96s
+2022.05.15 15:01:28 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.15 15:01:28 WARN  Build server is not auto-connectable.
+2022.05.15 15:01:29 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\HomeController.scala
+2022.05.15 15:01:38 INFO  no build target found for C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.15 15:01:46 INFO  time: code lens generation in 14s
+2022.05.15 15:02:54 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.15 15:03:09 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.15 15:04:33 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Weather.scala
+2022.05.15 15:05:08 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Weather.scala
+2022.05.15 15:09:54 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Weather.scala
+2022.05.15 15:10:59 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.15 15:13:12 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.15 15:14:07 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.15 15:18:10 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\build.sbt
+2022.05.15 15:18:14 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\build.sbt
+2022.05.15 15:18:21 INFO  running 'C:\Program Files\Java\jdk1.8.0_231\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\1\AppData\Local\Temp\metals1797878226032722198\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.05.15 15:18:25 INFO  time: ran 'sbt bloopInstall' in 4.12s
+2022.05.15 15:18:25 ERROR sbt command failed: C:\Program Files\Java\jdk1.8.0_231\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\1\AppData\Local\Temp\metals1797878226032722198\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall
+2022.05.15 15:24:34 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.15 15:24:48 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+мая 15, 2022 3:26:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 605
+2022.05.15 15:28:11 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.15 15:29:19 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.15 15:29:46 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.15 15:30:08 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+мая 15, 2022 3:36:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1037
+2022.05.15 15:41:46 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 01:53:43 INFO  shutting down Metals
+2022.05.16 22:37:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\1\Desktop\scala\weather-aggregator\.metals\lsp.trace.json or C:\Users\1\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.16 22:37:43 INFO  logging to file C:\Users\1\Desktop\scala\weather-aggregator\.metals\metals.log
+2022.05.16 22:37:43 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\1\Desktop\scala\weather-aggregator' for client Visual Studio Code 1.67.1.
+2022.05.16 22:37:47 INFO  time: initialize in 4.21s
+2022.05.16 22:37:48 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.16 22:37:49 WARN  Build server is not auto-connectable.
+2022.05.16 22:37:49 INFO  skipping build import with status 'Failed'
+2022.05.16 22:37:50 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 22:37:56 INFO  no build target found for C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.16 22:38:01 INFO  time: code lens generation in 10s
+2022.05.16 22:40:14 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 22:41:49 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 22:42:13 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 22:43:53 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 22:45:11 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 22:49:18 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+мая 16, 2022 10:49:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 37 is not a valid line number, allowed [0..36]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:179)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:76)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:75)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:64)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:63)
+	at scala.collection.immutable.List.collect(List.scala:275)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:63)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1639)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1638)
+	... 15 more
+
+2022.05.16 22:49:29 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+мая 16, 2022 10:49:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 520
+2022.05.16 22:49:50 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 22:52:19 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.16 22:53:04 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.16 22:53:17 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+мая 16, 2022 10:57:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 670
+2022.05.16 22:57:58 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 22:58:29 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.16 23:00:08 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+мая 16, 2022 11:01:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 864
+2022.05.16 23:01:42 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 23:04:41 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 23:05:28 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+мая 16, 2022 11:06:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1204
+мая 16, 2022 11:06:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1259
+мая 16, 2022 11:07:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1285
+мая 16, 2022 11:07:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1353
+2022.05.16 23:07:40 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 23:08:39 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 23:09:54 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 23:11:01 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 23:13:14 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 23:15:15 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.16 23:15:22 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+мая 16, 2022 11:16:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1632
+2022.05.16 23:16:11 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+мая 16, 2022 11:18:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1724
+2022.05.16 23:18:49 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.16 23:50:17 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.16 23:51:24 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.16 23:52:03 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 00:30:12 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\owm\Data.scala
+2022.05.17 00:31:00 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\lw\Data.scala
+2022.05.17 00:32:04 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\openweathermap\Data.scala
+2022.05.17 00:32:15 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 00:33:33 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 00:34:07 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\openweathermap\Data.scala
+2022.05.17 00:52:43 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 00:53:01 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 00:53:37 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\openweathermap\Data.scala
+2022.05.17 00:53:42 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 00:53:55 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 00:54:40 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\openweathermap\Data.scala
+2022.05.17 00:55:52 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 00:56:24 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\openweathermap\Data.scala
+2022.05.17 00:56:57 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 00:57:57 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 00:58:15 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:02:58 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:03:05 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:04:21 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:06:06 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:07:16 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:07:16 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:07:33 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:07:46 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 01:08:15 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 01:08:29 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:08:55 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:14:38 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:30:20 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:31:00 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:31:37 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:32:10 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:33:12 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 01:54:06 INFO  shutting down Metals
+2022.05.17 16:27:13 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\1\Desktop\scala\weather-aggregator\.metals\lsp.trace.json or C:\Users\1\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.17 16:27:15 INFO  logging to file C:\Users\1\Desktop\scala\weather-aggregator\.metals\metals.log
+2022.05.17 16:27:15 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\1\Desktop\scala\weather-aggregator' for client Visual Studio Code 1.67.1.
+2022.05.17 16:27:19 INFO  time: initialize in 3.79s
+2022.05.17 16:27:21 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.17 16:27:21 WARN  Build server is not auto-connectable.
+2022.05.17 16:27:22 INFO  skipping build import with status 'Failed'
+2022.05.17 16:27:22 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\openweathermap\Data.scala
+2022.05.17 16:27:29 INFO  no build target found for C:\Users\1\Desktop\scala\weather-aggregator\app\model\openweathermap\Data.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.17 16:27:34 INFO  time: code lens generation in 10s
+2022.05.17 16:30:25 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 16:31:34 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 16:33:13 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+мая 17, 2022 4:33:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 90
+2022.05.17 16:59:14 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 16:59:43 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.17 16:59:51 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.17 17:00:01 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.17 17:00:17 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\openweathermap\Data.scala
+2022.05.17 17:00:30 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\openweathermap\Data.scala
+2022.05.17 17:00:48 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 17:00:53 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\localweather\Data.scala
+2022.05.17 17:01:10 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:03:15 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+мая 17, 2022 5:05:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 467
+2022.05.17 17:06:16 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:07:06 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:07:22 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:14:40 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:15:21 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:15:23 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:18:04 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:18:25 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:18:50 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:18:58 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:22:38 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:23:25 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:28:07 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:28:21 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:28:31 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:29:13 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+мая 17, 2022 5:30:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1448
+2022.05.17 17:30:48 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:31:26 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:31:50 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:32:25 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:32:42 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:33:00 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:33:22 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:33:48 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:34:13 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.17 17:34:17 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.17 17:34:45 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:35:15 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:35:26 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:36:15 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:36:38 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:37:35 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:37:55 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:38:57 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:40:52 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:41:31 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:42:20 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.17 17:42:54 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.17 17:43:23 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\model\Data.scala
+2022.05.17 17:43:39 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:45:22 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:47:56 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:49:18 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:49:43 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:50:02 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 17:52:17 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:52:45 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:56:10 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:58:58 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 17:59:24 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:01:29 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:03:32 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:05:10 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:30:06 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:30:20 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+мая 17, 2022 6:34:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2890
+2022.05.17 18:35:14 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:39:58 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:40:38 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+мая 17, 2022 6:40:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3144
+2022.05.17 18:42:39 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:43:04 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:43:28 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:43:49 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:44:10 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:45:43 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:46:21 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:50:23 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:50:42 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:51:04 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:56:25 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:57:49 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:57:54 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 18:58:26 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:01:04 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:01:14 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:03:22 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:05:18 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:06:51 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:07:29 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:09:16 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:09:52 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:10:58 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:14:59 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:29:40 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:29:57 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:30:52 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:31:36 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:36:07 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:36:49 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:40:31 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:43:37 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 19:44:33 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 19:45:13 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 19:45:47 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.17 19:45:52 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 19:52:31 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 20:16:18 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 20:16:33 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.17 20:33:55 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\service\WeatherAggregatorService.scala
+2022.05.18 00:33:47 INFO  shutting down Metals
+2022.05.18 14:28:33 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\1\Desktop\scala\weather-aggregator\.metals\lsp.trace.json or C:\Users\1\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.18 14:28:36 INFO  logging to file C:\Users\1\Desktop\scala\weather-aggregator\.metals\metals.log
+2022.05.18 14:28:36 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\1\Desktop\scala\weather-aggregator' for client Visual Studio Code 1.67.1.
+2022.05.18 14:28:40 INFO  time: initialize in 3.95s
+2022.05.18 14:28:40 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.18 14:28:41 WARN  Build server is not auto-connectable.
+2022.05.18 14:28:42 INFO  skipping build import with status 'Failed'
+мая 18, 2022 2:28:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+мая 18, 2022 2:29:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+мая 18, 2022 2:29:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.05.18 14:29:20 INFO  shutting down Metals
+2022.05.18 14:29:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\1\Desktop\scala\weather-aggregator\.metals\lsp.trace.json or C:\Users\1\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.18 14:29:46 INFO  logging to file C:\Users\1\Desktop\scala\weather-aggregator\.metals\metals.log
+2022.05.18 14:29:46 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\1\Desktop\scala\weather-aggregator' for client Visual Studio Code 1.67.1.
+2022.05.18 14:29:49 INFO  time: initialize in 2.9s
+2022.05.18 14:29:50 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.18 14:29:50 WARN  Build server is not auto-connectable.
+2022.05.18 14:29:51 INFO  skipping build import with status 'Failed'
+2022.05.18 14:30:59 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+мая 18, 2022 2:31:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+мая 18, 2022 2:31:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+мая 18, 2022 2:31:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.05.18 14:31:07 INFO  no build target found for C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.18 14:31:14 INFO  time: code lens generation in 6.03s
+2022.05.18 14:31:14 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:31:14 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:31:14 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:31:17 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:31:39 INFO  shutting down Metals
+2022.05.18 14:32:04 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\1\Desktop\scala\weather-aggregator\.metals\lsp.trace.json or C:\Users\1\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.18 14:32:07 INFO  logging to file C:\Users\1\Desktop\scala\weather-aggregator\.metals\metals.log
+2022.05.18 14:32:07 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\1\Desktop\scala\weather-aggregator' for client Visual Studio Code 1.67.1.
+2022.05.18 14:32:10 INFO  time: initialize in 3.63s
+2022.05.18 14:32:11 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.18 14:32:12 WARN  Build server is not auto-connectable.
+2022.05.18 14:32:12 INFO  skipping build import with status 'Failed'
+2022.05.18 14:32:12 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:32:17 INFO  no build target found for C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.18 14:32:23 INFO  time: code lens generation in 9.08s
+2022.05.18 14:32:33 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+мая 18, 2022 2:32:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+2022.05.18 14:32:33 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:32:33 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:32:33 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:32:35 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:32:35 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:32:35 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:32:36 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:32:36 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:32:36 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:32:37 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.18 14:32:37 WARN  no build target for: C:\Users\1\Desktop\scala\weather-aggregator\app\controllers\WeatherAggregatorController.scala
+2022.05.19 15:47:28 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\1\Desktop\scala\weather-aggregator\.metals\lsp.trace.json or C:\Users\1\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.19 15:47:31 INFO  logging to file C:\Users\1\Desktop\scala\weather-aggregator\.metals\metals.log

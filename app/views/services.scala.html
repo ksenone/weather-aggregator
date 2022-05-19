@@ -1,0 +1,7 @@
+@(services: Map[String, String])
+
+@main("Services") {
+<h3>Сервисы, с которыми работает приложение</h3>
+@for((k, v) <- services){ <p>@k @v</p>
+  }
+  }
